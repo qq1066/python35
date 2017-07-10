@@ -1,3 +1,5 @@
+#_*_ codeing: UTF-8 _*_
+print('中文')
 # s1 = "fajkfakrjiofasfafkafhiaifafanfnafafkakfjajfafjafjajfierfaifqapfapjkafja"
 # l1 = list(s1)
 # l1.sort()
