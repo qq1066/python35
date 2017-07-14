@@ -27,3 +27,18 @@
 #
 # for a in table:
 #     print(a)
+# D = {'spam':2, 'ham':1, 'eggs':3}
+# print(D.get('spam'))
+# print(D.get('toast'))
+# print(D.get('toast', 88))
+# print(D)
+# D2 = {'toast':4, 'muffin':5}
+# D.update(D2)
+# print(D)
+#
+# table = {'python': 'Guido van Rossum',
+#          'per': 'Larry Wall',
+#          'Tcl': 'John Ousterhout'}
+# language = 'python'
+# creator = table[language]
+# print(creator)
