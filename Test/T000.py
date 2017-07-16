@@ -36,9 +36,9 @@
 # D.update(D2)
 # print(D)
 #
-# table = {'python': 'Guido van Rossum',
-#          'per': 'Larry Wall',
-#          'Tcl': 'John Ousterhout'}
-# language = 'python'
-# creator = table[language]
-# print(creator)
+table = {'python': 'Guido van Rossum',
+         'per': 'Larry Wall',
+         'Tcl': 'John Ousterhout'}
+language = 'python'
+creator = table[language]
+print(creator)
