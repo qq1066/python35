@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # _*_ codeing: UTF-8 _*_
 print('中文')
 # s1 = "fajkfakrjiofasfafkafhiaifafanfnafafkakfjajfafjafjajfierfaifqapfapjkafja"
@@ -36,10 +37,10 @@ print('中文')
 # D.update(D2)
 # print(D)
 #
-# table = {'python': 'Guido van Rossum',
-#          'per': 'Larry Wall',
-#          'Tcl': 'John Ousterhout'}
-# language = 'python'
-# creator = table[language]
-# print(creator)
+table = {'python': 'Guido van Rossum',
+         'per': 'Larry Wall',
+         'Tcl': 'John Ousterhout'}
+language = 'python'
+creator = table[language]
+print(creator)
 #date 20170729
