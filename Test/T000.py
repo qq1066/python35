@@ -45,5 +45,3 @@ creator = table[language]
 print(creator)
 #date 20170729
 
-
-
